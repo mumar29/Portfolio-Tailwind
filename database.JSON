@@ -1,0 +1,45 @@
+{
+  "home": {
+    "title": "Miraal Umar",
+    "description": "Software Engineering Student and Full Stack Web Developer",
+    "image": "url_to_black_pfp_image"
+  },
+  "resume": {
+    "aboutMe": {
+      "name": "Miraal Umar",
+      "description": "My name is Miraal Umar, I'm a software engineering student at MCS, NUST. I started my coding journey two years ago and since then I've made several projects from desktop to web apps. I aspire to be a skilled developer and get my dream job one day. Besides coding, I enjoy Music, Anime, Books, and Swimming."
+    },
+    "education": [
+      {
+        "degree": "Matriculation",
+        "year": 2019,
+        "marks": "1058 out of 1100"
+      },
+      {
+        "degree": "Intermediate",
+        "year": 2021,
+        "marks": "1028 out of 1100"
+      },
+      {
+        "degree": "Computer Software Engineering",
+        "institution": "NUST",
+        "year": "2021-present",
+        "currentCGPA": 3.85
+      }
+    ],
+    "experience": [
+      {
+        "title": "Technical Intern",
+        "company": "PITB Incubation Centre, NUST",
+        "year": 2022,
+        "description": "Technical internship at the PITB Incubation Center"
+      },
+      {
+        "title": "Web Developer Intern",
+        "company": "Teresol Pvt Ltd.",
+        "year": 2023,
+        "description": "Web dev Internship at Teresol Pvt Ltd."
+      }
+    ]
+  }
+}
